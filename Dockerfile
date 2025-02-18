@@ -32,6 +32,7 @@ RUN apt-get update && apt-get install -qqy --no-install-recommends \
     openjdk-17-jdk \
     openjdk-21-jdk \
     checkstyle \
+    zip \
     unzip \
     curl \
     cmake \
